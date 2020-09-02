@@ -30,3 +30,6 @@ Extras
 - Docker
 
 Ao término do projeto envie um Pull Request com a sua solução. Boa sorte!
+
+
+![Model](https://github.com/moss-earth/challenge-junior/blob/master/test_junior.png)
