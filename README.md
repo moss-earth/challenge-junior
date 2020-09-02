@@ -12,7 +12,7 @@ Requisitos do projeto
 - Mostrar um projeto por ID
 
 Requisitos do lote
-- Criar um lote com preço, quantidade, data da compra e associar a um projeto
+- Criar um lote com preço, quantidade de créditos de carbono, data da compra e associar a um projeto
 - Excluir um lote lógicamente
 - Listar os lotes de um projeto
 - Mostrar um lote por ID
