@@ -2,20 +2,20 @@
 Desafio para desenvolvedores junior
 
 # Criação de uma API para gerenciamento de projetos e lotes
-A Moss precisa gerenciar a compra de lotes de crédito de carbono, desemvolva uma api para que o nosso time de operações possa criar Projetos e associar os Lotes comprados de cada projeto.
+A Moss precisa gerenciar a compra de lotes de crédito de carbono, desenvolva uma api para que o nosso time de operações possa criar Projetos e associar os Lotes comprados de cada projeto.
 
 Requisitos do projeto
 - Criar um projeto com nome
 - Atualizar o nome de um projeto
 - Excluir um projeto lógicamente
 - Listar os projetos cadastrados
-- Listar um projeto por ID
+- Mostrar um projeto por ID
 
 Requisitos do lote
 - Criar um lote com preço, quantidade, data da compra e associar a um projeto
 - Excluir um lote lógicamente
 - Listar os lotes de um projeto
-- Listar um lote por ID
+- Mostrar um lote por ID
 
 Requisitos técnicos
 - Você pode usar a linguagem ou framework que desejar
